@@ -1,4 +1,3 @@
-from cProfile import label
 from django import forms
 from .models import Pelicula
 
@@ -13,3 +12,10 @@ class PeliculaForm(forms.ModelForm):
             'genero': 'Genero',
             'clasificacion': 'Clasificacion'
         }
+        
+    def __init__(self, *args, **kwargs):
+        super(PeliculaForm, self).__init__(*args, **kwargs)
+        self.fields['clasificacion'].empty_label = "-- Seleccionar --"
+
+
+    
