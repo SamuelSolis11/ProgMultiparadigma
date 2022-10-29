@@ -5,7 +5,7 @@ from .forms import VideojuegoForm
 
 # Create your views here.
 def videojuego_list(request):
-    context = {'viedojuego_list': Videojuego.objects.all()}
+    context = {'videojuego_list': Videojuego.objects.all()}
     return render(request, "videojuego/videojuego_list.html", context)
 
 def videojuego_form(request, id=0):
