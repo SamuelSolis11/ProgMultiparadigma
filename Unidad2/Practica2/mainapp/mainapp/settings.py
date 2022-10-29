@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'pelicula',
     'crispy_forms',
     'crispy_bootstrap5',
+    'videojuego',
 ]
 
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
