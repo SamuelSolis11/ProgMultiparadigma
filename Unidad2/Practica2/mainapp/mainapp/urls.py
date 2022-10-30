@@ -22,3 +22,5 @@ urlpatterns = [
     path('videojuego/',include('videojuego.urls')),
     path('serie/',include('serie.urls')),
 ]
+
+#admin page: user: admin, pass: 1234

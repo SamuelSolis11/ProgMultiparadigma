@@ -8,3 +8,6 @@ class Videojuego(models.Model):
     codigo = models.CharField(max_length=30)
     plataforma = models.CharField(max_length=30)
     calificacion = models.CharField(max_length=3)
+
+    def __str__(self):
+        return self.titulo

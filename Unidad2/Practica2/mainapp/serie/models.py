@@ -6,3 +6,6 @@ class Serie(models.Model):
     codigo = models.CharField(max_length=30)
     capitulos = models.CharField(max_length=5)
     calificacion = models.CharField(max_length=5)
+
+    def __str__(self):
+        return self.titulo
