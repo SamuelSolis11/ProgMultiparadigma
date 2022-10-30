@@ -1,3 +1,4 @@
+from multiprocessing import context
 from django.shortcuts import redirect, render
 from .forms import PeliculaForm
 from .models import Pelicula
@@ -30,3 +31,6 @@ def pelicula_delete(request, id):
     pelicula = Pelicula.objects.get(pk=id)
     pelicula.delete()
     return redirect('/pelicula/lista')
+
+def homepage(request):
+    return render(request, "pelicula/homepage.html")
