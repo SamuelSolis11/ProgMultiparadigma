@@ -21,6 +21,7 @@ urlpatterns = [
     path('pelicula/',include('pelicula.urls')),
     path('videojuego/',include('videojuego.urls')),
     path('serie/',include('serie.urls')),
+    path('documental/', include('documental.urls')),
 ]
 
 #admin page: user: admin, pass: 1234
