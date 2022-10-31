@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar</title>
+</head>
+<body>
+    <h1>Editar</h1>
+    <form method="post">
+        {{forma.csrf_token}}
+        <p>
+            {{forma.nombreCancion.label}}<br/>
+            {{forma.nombreCancion(size=30)}}
+        </p>
+        <p>
+            {{forma.fechaEstreno.label}}<br/>
+            {{forma.fechaEstreno(size=30)}}
+        </p>
+        <p>
+            {{forma.discografica.label}}<br/>
+            {{forma.discografica(size=30)}}
+        </p>
+        <p>
+            {{forma.duracion.label}}<br/>
+            {{forma.duracion(size=30)}}
+        </p>
+        <p>
+            {{forma.enviar()}}
+        </p>
+    </form>
+</body>
+</html>

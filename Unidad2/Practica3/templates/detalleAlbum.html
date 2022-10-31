@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='./estilo.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Información sobre el album</h1>
+    <div id="detalle">
+        <p>Id del album: {{album.idAlbum}}</p>
+        <p>Nombre del album: {{album.nombreAlbum}}</p>
+        <p>Fecha de lanzamiento: {{album.fechaLanzamiento}}</p>
+        <p>Número de canciones: {{album.numCanciones}}</p>
+    </div>
+    
+    <a href="{{url_for('inicio')}}" id="agregar" >Inicio</a>
+</body>
+</html>

@@ -1,0 +1,1967 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 17:58:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 17:58:53] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:00:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:00:03] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:00:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:00:54] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:01:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:01:23] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:01:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:01:47] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:05] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:18] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:27] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:41] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:57] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:02:59] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:09] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:19] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:21] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:44] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:03:54] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:05] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:08] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:15] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:30] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:04:51] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:11] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:23] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:33] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:41] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:05:57] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:11] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:23] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:25] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:42] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:43] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:54] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:55] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:06:56] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:06] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:08] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:29] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:07:59] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:00] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:13] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:14] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:24] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:25] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:32] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:41] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:08:53] "GET /static/inicio.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:22:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:22:23] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:22:27] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:22:27] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:22:29] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:22:29] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:23:28] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:23:28] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:24:15] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:24:15] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:24:24] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:24:24] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:17] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:25] "GET /Album HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:25] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:28] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:28] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:29] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:29] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:31] "[33mGET /ver/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:38] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:38] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:25:59] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:26:02] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:26:02] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:26:03] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:26:03] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:46:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:46:00] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /Album [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 94, in mostrarAlbum
+    return render_template('album.html', albumes=albumes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\templates\album.html", line 14, in top-level template code
+    <a href="{{url_for('agregar')}}" id="agregar" >Agregar</a>
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'agregar'. Did you mean 'agregarAlbum' instead?
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:46:05] "[35m[1mGET /Album HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:47:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:47:16] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:47:22] "GET /Album HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:47:22] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:47:25] "GET /agregarAlbum HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:47:25] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:49:12] "[32mPOST /agregarAlbum HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:49:12] "GET /Album HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:49:12] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:49:16] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:49:16] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:47] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:51] "GET /Album HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:51] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:53] "GET /verAlbum/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:53] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:57] "GET /agregarAlbum HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:52:57] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:53:04] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:53:05] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:53:06] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:53:06] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:15] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:15] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:17] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:17] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:19] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:19] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:33] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:35] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:35] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:36] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:36] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:38] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:54:38] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:21] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:23] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:23] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:24] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:24] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /verCancion/1 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 56, in verDetalleCancion
+    return render_template('detalle.html',cancion=cancion)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: detalle.html
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:30] "[35m[1mGET /verCancion/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:35] "GET /Album HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:35] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:37] "GET /verAlbum/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:55:37] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:56:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:56:09] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:56:11] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:56:11] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:56:13] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:56:13] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:58:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:58:21] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:58:23] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:58:23] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:58:24] "GET /verCancion/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:58:24] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:59:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:59:20] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:59:22] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:59:22] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:59:23] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 18:59:23] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:00:02] "GET /cancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:00:02] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:00:03] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:00:04] "[36mGET /static/estilo.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:00:52] "GET /agregarCancion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:00:52] "GET /static/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:26:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:26:52] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:27:19] "GET /cantantes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:27:24] "[33mGET /cantante/1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:35:32] "[31m[1mGET /agregarCantante HTTP/1.1[0m" 405 -
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 141, in agregarCantante
+    album= Album.request.get_json
+AttributeError: type object 'Album' has no attribute 'request'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:35:49] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 141, in agregarCantante
+    album= Album.query.get_json
+AttributeError: type object 'Album' has no attribute 'request'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:36:22] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 141, in agregarCantante
+    album= Album.query.get_json
+AttributeError: 'Query' object has no attribute 'get_json'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:36:40] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 143, in agregarCantante
+    nombreCantante=info["nombreCantante"]
+KeyError: 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:58:24] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 146, in agregarCantante
+    db.session.add(Cantante(info))
+TypeError: __init__() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 19:59:31] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 146, in agregarCantante
+    db.session.add(info)
+TypeError: __init__() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:00:45] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 146, in agregarCantante
+    db.session.add(info in Cantante)
+TypeError: __init__() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:01:17] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 2636, in add
+    state = attributes.instance_state(instance)
+AttributeError: 'str' object has no attribute '_sa_instance_state'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 147, in agregarCantante
+    db.session.add(agregarCantante,[nombreCantante,nombreArtistico,aDebut])
+  File "<string>", line 2, in add
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 2638, in add
+    util.raise_(
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\sqlalchemy\util\compat.py", line 208, in raise_
+    raise exception
+sqlalchemy.orm.exc.UnmappedInstanceError: Class 'builtins.str' is not mapped
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:09:14] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /agregarCantante [POST]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 2636, in add
+    state = attributes.instance_state(instance)
+AttributeError: 'str' object has no attribute '_sa_instance_state'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 146, in agregarCantante
+    db.session.add(agregarCantante,[nombreCantante,nombreArtistico,aDebut])
+  File "<string>", line 2, in add
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 2638, in add
+    util.raise_(
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\sqlalchemy\util\compat.py", line 208, in raise_
+    raise exception
+sqlalchemy.orm.exc.UnmappedInstanceError: Class 'builtins.str' is not mapped
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:09:47] "[35m[1mPOST /agregarCantante HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:17:48] "POST /agregarCantante HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:18:14] "[33mPOST /Cantantes HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:21:34] "[33mGET /Cantantes HTTP/1.1[0m" 404 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return jsonify(cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:21:51] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:26:52] "[33mDELETE /eliminarCantante/1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /eliminarCantante/1 [DELETE]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+TypeError: eliminarCantante() got an unexpected keyword argument 'Cantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:27:43] "[35m[1mDELETE /eliminarCantante/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /eliminarCantante/1 [DELETE]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+TypeError: eliminarCantante() got an unexpected keyword argument 'Cantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:28:53] "[35m[1mDELETE /eliminarCantante/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:29:55] "DELETE /eliminarCantante/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:33:33] "[31m[1mDELETE /agregarCantante HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:33:38] "POST /agregarCantante HTTP/1.1" 200 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:36:54] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    cantante=Cantante.query.filter_by(id)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:37:29] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 136, in mostrarCantante
+    cantante=Cantante.query.filter_by(id)
+TypeError: Query.filter_by() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:46:15] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 136, in mostrarCantante
+    cantante=Cantante.query.filter_by(id)
+TypeError: Query.filter_by() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:47:02] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 136, in mostrarCantante
+    cantante=Cantante.query.filter_by(id)
+TypeError: Query.filter_by() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:47:41] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify.dump(cantante)
+AttributeError: 'function' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:50:41] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return print(cantante)
+AttributeError: 'function' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:53:18] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'mostrarCantante' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:53:45] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'mostrarCantante' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:56:05] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:56:10] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:57:12] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return cantante
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:57:42] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2170, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, list, tuple with headers or status, Response instance, or WSGI callable, but it was a Cantante.
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:57:49] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 136, in mostrarCantante
+    cantante=Cantante.query.filter_by(id).first()
+TypeError: Query.filter_by() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:59:58] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 136, in mostrarCantante
+    cantante=Cantante.query.filter_by(id).first()
+TypeError: Query.filter_by() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 20:59:59] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:37] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:42] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:43] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:44] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:44] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:44] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:00:44] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:01:38] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:01:39] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 137, in mostrarCantante
+    return jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:02:10] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:07:36] "PUT /editarCantante/2 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:08:47] "PUT /editarCantante/2 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /editarCantante/2 [PUT]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 159, in editarCantante
+    db.session.commit(cantante)
+TypeError: commit() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:14:07] "[35m[1mPUT /editarCantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /editarCantante/2 [PUT]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 159, in editarCantante
+    db.session.commit(cantante)
+TypeError: commit() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:14:08] "[35m[1mPUT /editarCantante/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:17:20] "PUT /editarCantante/2 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:18:47] "PUT /editarCantante/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:18:55] "[31m[1mPUT /cantantes HTTP/1.1[0m" 405 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return jsonify(cantantes=cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:19:01] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return jsonify(cantantes=cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:19:02] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return jsonify(cantantes=cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:24:10] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantante/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 138, in mostrarCantante
+    return  jsonify(cantante)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:24:14] "[35m[1mGET /cantante/2 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return jsonify(cantantes=cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:24:33] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return jsonify(cantantes=cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:24:33] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return json.dump(cantantes)
+NameError: name 'json' is not defined
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:25:24] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 132, in mostrarCantantes
+    return json.dump(cantantes)
+NameError: name 'json' is not defined
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:25:25] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return json.dump(cantantes)
+TypeError: dump() missing 1 required positional argument: 'fp'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:26:04] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return json.dump(cantantes)
+TypeError: dump() missing 1 required positional argument: 'fp'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:26:05] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(**cantantes)
+TypeError: flask.json.jsonify() argument after ** must be a mapping, not list
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:28:05] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(**cantantes)
+TypeError: flask.json.jsonify() argument after ** must be a mapping, not list
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:28:07] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(**cantantes)
+TypeError: flask.json.jsonify() argument after ** must be a mapping, not list
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:28:38] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(**cantantes)
+TypeError: flask.json.jsonify() argument after ** must be a mapping, not list
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:28:39] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(*cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:28:57] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(*cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:28:58] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:32:41] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return jsonify(cantantes)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:33:21] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return json.loads(cantantes)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not list
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:36:09] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 133, in mostrarCantantes
+    return json.loads(cantantes)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not list
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:36:09] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado=cantantes.dump(cantantes)
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:40:33] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado=cantantes.dump(cantantes)
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:40:34] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado=cantantes.dump(cantantes)
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:40:35] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado=cantantes.dump(cantantes)
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:46:56] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado=cantantes.dump(cantantes)
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:46:57] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:47:15] "GET /cantante/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:48:14] "GET /cantante/2 HTTP/1.1" 200 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"idCantante":cantantes.idCantante,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:48:17] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"idCantante":cantantes.idCantante,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'dump'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:48:19] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"idCantante":cantantes.idCantante,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'idCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:49:22] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"idCantante":cantantes.idCantante,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'idCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:49:23] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:50:00] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:50:01] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:50:29] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 135, in mostrarCantantes
+    resultado={"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:51:19] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 135, in mostrarCantantes
+    resultado={"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:51:20] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 135, in mostrarCantantes
+    resultado={"id":i,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:51:57] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 135, in mostrarCantantes
+    resultado={"id":i,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:51:58] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 135, in mostrarCantantes
+    resultado={"id":i,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'nombreCantante'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:52:07] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultados= cantantes.split()
+AttributeError: 'list' object has no attribute 'split'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:53:16] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 134, in mostrarCantantes
+    resultado={"idCantante":cantantes.idCantantes,"nombreCantante":cantantes.nombreCantante,"nombreArtistico":cantantes.nombreArtistico,"aDebut":cantantes.aDebut}
+AttributeError: 'list' object has no attribute 'idCantantes'
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:54:15] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:54:19] "GET /cantante/2 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:55:18] "GET /cantante/2 HTTP/1.1" 200 -
+ERROR:app:Exception on /cantantes [GET]
+Traceback (most recent call last):
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\app.py", line 135, in mostrarCantantes
+    return jsonify(i)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\gema_\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\gema_\Documents\practica3\ProgMultiparadigma\Unidad2\Practica3\.venv\lib\site-packages\flask\json\provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type Cantante is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:55:20] "[35m[1mGET /cantantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 21:58:37] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 22:52:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2022 22:52:59] "[36mGET /static/inicio.css HTTP/1.1[0m" 304 -

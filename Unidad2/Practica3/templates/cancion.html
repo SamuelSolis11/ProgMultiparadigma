@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='./estilo.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Canciones</h1>
+    <div>
+        <a href="{{url_for('inicio')}}" id="agregar" >Inicio</a>
+        <a href="{{url_for('agregarCancion')}}" id="agregar" >Agregar</a>
+    </div>
+    <div>
+        <table >
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Cancion</th>
+                    <th>Fecha de lanzamiento</th>
+                    <th>Discografica</th>
+                    <th>Duracion</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for cancion in canciones %}
+                <tr>
+                    <td>{{cancion.idCancion}}</td>
+                    <td>{{cancion.nombreCancion}}</td>
+                    <td>{{cancion.fechaEstreno}}</td>
+                    <td>{{cancion.discografica}}</td>
+                    <td>{{cancion.duracion}}</td>
+                    <td><a href="verCancion/{{cancion.idCancion}}">ver</a></td>
+                    <td><a href="editarCancion/{{cancion.idCancion}}">Editar</a></td>
+                    <td><a href="eliminarCancion/{{cancion.idCancion}}">Eliminar</a></td>
+                </tr>
+                {% endfor %}
+            </tbody> 
+        </table>
+    </div>
+</body>
+</html>

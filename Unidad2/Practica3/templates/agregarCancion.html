@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='./estilo.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregar</title>
+</head>
+<body>
+    <h1>Agregar</h1>
+    <form method="post">
+        {{forma.csrf_token}}
+        <p id="pAgregar">
+            {{forma.nombreCancion.label}}<br/>
+            {{forma.nombreCancion(size=30)}}
+        </p>
+        <p id="pAgregar">
+            {{forma.fechaEstreno.label}}<br/>
+            {{forma.fechaEstreno(size=30)}}
+        </p>
+        <p id="pAgregar">
+            {{forma.discografica.label}}<br/>
+            {{forma.discografica(size=30)}}
+        </p>
+        <p id="pAgregar">
+            {{forma.duracion.label}}<br/>
+            {{forma.duracion(size=30)}}
+        </p>
+        <p id="pAgregar">
+            {{forma.enviar()}}
+        </p>
+    </form>
+</body>
+</html>

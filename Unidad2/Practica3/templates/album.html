@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='./estilo.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Canciones</h1>
+    <div>
+        <a href="{{url_for('inicio')}}" id="agregar" >Inicio</a>
+        <a href="{{url_for('agregarAlbum')}}" id="agregar" >Agregar</a>
+    </div>
+    <div>
+        <table >
+            <thead>
+                <tr>
+                    <th>Id Album</th>
+                    <th>Album</th>
+                    <th>Fecha de lanzamiento</th>
+                    <th>#Canciones</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for album in albumes %}
+                <tr>
+                    <td>{{album.idAlbum}}</td>
+                    <td>{{album.nombreAlbum}}</td>
+                    <td>{{album.fechaLanzamiento}}</td>
+                    <td>{{album.numCanciones}}</td>
+                    <td><a href="verAlbum/{{album.idAlbum}}">ver</a></td>
+                    <td><a href="editarAlbum/{{album.idAlbum}}">Editar</a></td>
+                    <td><a href="eliminarAlbum/{{album.idAlbum}}">Eliminar</a></td>
+                </tr>
+                {% endfor %}
+            </tbody> 
+        </table>
+    </div>
+</body>
+</html>
